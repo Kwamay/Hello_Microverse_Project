@@ -14,8 +14,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+  - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -66,13 +65,6 @@ Added style.css file
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Live-demo will br added soon.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -109,20 +101,6 @@ npm install
 To run the project, execute the following command:
 
  Open index.html using live server extension.
-
-### Run tests
-
-To run tests, run the following command:
-
-Coming soon
-
-### Deployment
-
-You can deploy this project using:
-
-Coming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 👥 Authors <a name="authors"></a>
