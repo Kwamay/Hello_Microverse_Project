@@ -151,7 +151,7 @@ for providing content for this project.
 
 
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="MIT license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
